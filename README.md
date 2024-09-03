@@ -8,6 +8,7 @@ This are my personal settings for visual studio code.
 VSCode Extensions:  
 * [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
 * [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
+* [Icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
 
 Fonts: 
 * [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip)
