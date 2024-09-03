@@ -1,0 +1,36 @@
+{
+    // VSCodeSettings
+    "workbench.iconTheme": "icons",
+    "workbench.activityBar.location": "bottom",
+    "workbench.sideBar.location": "right",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "window.customTitleBarVisibility": "never",
+  
+    // Settings
+    "python.createEnvironment.trigger": "off",
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    // Tweaks / Declutter
+    "workbench.tree.indent": 16, // Increase tree indent in Explorer
+    "editor.minimap.enabled": false, // Hide minimap
+    "workbench.layoutControl.enabled": false, // Hide layout buttons
+    "window.commandCenter": false, // Hide command center
+    "breadcrumbs.enabled": true, // Breadcrumbs from top of editor
+  
+    // Font & Ligatures
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.fontLigatures": true,
+    
+  
+    // APC Customization
+    "apc.stylesheet": {
+      "*": "font-family: 'FiraCode Nerd Font'", 
+      ".sidebar *": "font-family: 'FiraCode Nerd Font'",
+      ".auxiliarybar *": "font-family: 'FiraCode Nerd Font'",
+      ".panel *": "font-family: 'FiraCode Nerd Font'",
+      ".tabs *": "font-family: 'FiraCode Nerd Font'",
+      ".statusbar *": "font-family: 'FiraCode Nerd Font'",
+    },
+  }
